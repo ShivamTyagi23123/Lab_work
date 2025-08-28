@@ -1,4 +1,4 @@
-"Q3-Write a program to calculate the area and perimeter of a rectangle given its length and breadth."
+//Q3-Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
 
 #include <cstdio>
 
@@ -20,7 +20,7 @@ int main() {
 
 
 
-"Q4-Write a program to calculate the area and circumference of a circle given its radius."
+//Q4-Write a program to calculate the area and circumference of a circle given its radius.
 
 #include <cstdio>
 
