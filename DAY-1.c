@@ -1,38 +1,37 @@
 "Q1-Write a program to input two numbers and display their sum."
 
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 int main() {
-    int num1, num2, sum;
-    cout << "Enter first number: ";
-    cin >> num1;
-    cout << "Enter second number: ";
-    cin >> num2;
-    sum = num1 + num2;
-    cout << "Sum: " << sum << endl;
+    int num1, num2;
+    printf("Enter first number: ");
+    scanf("%d", &num1);
+    printf("Enter second number: ");
+    scanf("%d", &num2);
+    printf("Sum: %d\n", num1 + num2);
     return 0;
 }
+    return 0;
 
 
 "Q2-Write a program to input two numbers and display their sum, difference, product, and quotient"
-
-#include <iostream>
-using namespace std;
+    
+#include <stdio.h>
 
 int main() {
-    double num1, num2;
-    cout << "Enter first number: ";
-    cin >> num1;
-    cout << "Enter second number: ";
-    cin >> num2;
+    int num1, num2;
+    printf("Enter first number: ");
+    scanf("%d", &num1);
+    printf("Enter second number: ");
+    scanf("%d", &num2);
 
-    cout << "Sum: " << num1 + num2 << endl;
-    cout << "Difference: " << num1 - num2 << endl;
-    cout << "Product: " << num1 * num2 << endl;
+    printf("Sum: %d\n", num1 + num2);
+    printf("Difference: %d\n", num1 - num2);
+    printf("Product: %d\n", num1 * num2);
     if (num2 != 0)
-        cout << "Quotient: " << num1 / num2 << endl;
+        printf("Quotient: %.2f\n", (float)num1 / num2);
     else
-        cout << "Quotient: Undefined (division by zero)" << endl;
+        printf("Quotient: Undefined (division by zero)\n");
 
     return 0;
+}
