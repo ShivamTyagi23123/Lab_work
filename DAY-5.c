@@ -1,4 +1,4 @@
-"Q9-Write a program to calculate simple and compound interest for given principal, rate, and time"\
+//Q9-Write a program to calculate simple and compound interest for given principal, rate, and time
 
 #include <cstdio>
 #include <cmath>
@@ -27,7 +27,7 @@ int main() {
 }
 
 
-"Q10-Write a program to input time in seconds and convert it to hours:minutes:seconds format"
+//Q10-Write a program to input time in seconds and convert it to hours:minutes:seconds format
 
 #include <cstdio>
 
