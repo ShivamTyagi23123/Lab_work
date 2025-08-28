@@ -1,4 +1,4 @@
-"Q13-Write a program to input a year and check whether it is a leap year or not using conditional statements"
+//Q13-Write a program to input a year and check whether it is a leap year or not using conditional statements
 
 #include <cstdio>
 
@@ -16,7 +16,7 @@ int main() {
     return 0;
 }
 
-"Q14-Write a program to input a character and check whether it is a vowel or consonant using if–else"
+//Q14-Write a program to input a character and check whether it is a vowel or consonant using if–else
 
 #include <cstdio>
 
