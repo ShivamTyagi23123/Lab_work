@@ -1,4 +1,4 @@
-##Q1-Write a program to input two numbers and display their sum.##
+Q1-Write a program to input two numbers and display their sum.
 
 #include <iostream>
 using namespace std;
@@ -15,7 +15,7 @@ int main() {
 }
 
 
-##Q2-Write a program to input two numbers and display their sum, difference, product, and quotient##
+Q2-Write a program to input two numbers and display their sum, difference, product, and quotient
 
 #include <iostream>
 using namespace std;
