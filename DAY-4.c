@@ -1,4 +1,4 @@
-Q7-Write a program to swap two numbers without using a third variable
+"Q7-Write a program to swap two numbers without using a third variable"
 
 #include <iostream>
 using namespace std;
@@ -17,7 +17,7 @@ int main() {
     cout << "a = " << a << "\nb = " << b << endl;
     return 0;
 
-Q8-Write a program to find and display the sum of the first n natural numbers
+"Q8-Write a program to find and display the sum of the first n natural numbers"
 
 #include <iostream>
 using namespace std;
