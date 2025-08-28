@@ -1,17 +1,16 @@
 "Q13-Write a program to input a year and check whether it is a leap year or not using conditional statements"
 
-#include <iostream>
-using namespace std;
+#include <cstdio>
 
 int main() {
     int year;
-    cout << "Enter a year: ";
-    cin >> year;
+    printf("Enter a year: ");
+    scanf("%d", &year);
 
     if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
-        cout << year << " is a leap year." << endl;
+        printf("%d is a leap year.\n", year);
     } else {
-        cout << year << " is not a leap year." << endl;
+        printf("%d is not a leap year.\n", year);
     }
 
     return 0;
@@ -19,21 +18,23 @@ int main() {
 
 "Q14-Write a program to input a character and check whether it is a vowel or consonant using if–else"
 
-#include <iostream>
-using namespace std;
+#include <cstdio>
 
 int main() {
     char ch;
-    cout << "Enter a character: ";
-    cin >> ch;
+    printf("Enter a character: ");
+    scanf(" %c", &ch);  // space before %c to ignore stray newlines
 
     if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
-        ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U')
-        cout << ch << " is a vowel." << endl;
-    else if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
-        cout << ch << " is a consonant." << endl;
-    else
-        cout << "Invalid input." << endl;
+        ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
+        printf("%c is a vowel.\n", ch);
+    } 
+    else if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')) {
+        printf("%c is a consonant.\n", ch);
+    } 
+    else {
+        printf("Invalid input.\n");
+    }
 
     return 0;
 }
