@@ -1,19 +1,23 @@
 "Q3-Write a program to calculate the area and perimeter of a rectangle given its length and breadth."
 
-#include <iostream>
+#include <cstdio>
 
 int main() {
     double length, breadth;
-    std::cout << "Enter length: ";
-    std::cin >> length;
-    std::cout << "Enter breadth: ";
-    std::cin >> breadth;
+    printf("Enter length: ");
+    scanf("%lf", &length);
+    printf("Enter breadth: ");
+    scanf("%lf", &breadth);
 
-    std::cout << "Area: " << (length * breadth) << "\n";
-    std::cout << "Perimeter: " << (2 * (length + breadth)) << "\n";
+    double area = length * breadth;
+    double perimeter = 2 * (length + breadth);
+
+    printf("Area: %.2f\n", area);
+    printf("Perimeter: %.2f\n", perimeter);
 
     return 0;
 }
+
 
 
 "Q4-Write a program to calculate the area and circumference of a circle given its radius."
