@@ -1,6 +1,8 @@
 # Lab Work: ✨ Daily Challenge – 100 Days of Code (UPES) ✨
 
-This repository contains simple programs solving basic programming problems
+This repository contains simple C programs solving a variety of basic programming problems, designed as daily coding challenges.
+
+---
 
 ## Programs Included
 
@@ -18,11 +20,37 @@ This repository contains simple programs solving basic programming problems
 - Character Type Check (uppercase/lowercase/digit/special)  
 - Find Largest of Three Numbers  
 - Roots of Quadratic Equation  
-- Assign Grades Based on Percentage
+- Assign Grades Based on Percentage  
 
+- Cinema Ticket Booking System  
+  A program to book multiple types of cinema seats with dynamic pricing and discounts.
+
+- Triangle Classification  
+  Classifies triangle type based on side lengths (Equilateral, Isosceles, Scalene).
+
+- Basic Calculator  
+  Performs arithmetic operations (+, -, *, /, %) using switch-case.
+
+- Number and Loop Exercises  
+  Programs including printing numbers 1 to n, factorial calculation, reversing a number, and prime number utilities.
+
+- Library Fine Calculator  
+  Calculates library fine based on days late with tiered rates and membership cancellation.
+
+- Electricity Bill Calculator  
+  Calculates bill for units consumed with slab rates.
+
+---
+
+### Prerequisites
+
+- A C compiler such as `gcc`  
+- Basic knowledge of command-line interface
 
 
 ---
 
-**Author:** Shivam tyagi 
-**Date:** 28 August 2025
+## Author
+
+**Shivam Tyagi**  
+_4 September 2025_
