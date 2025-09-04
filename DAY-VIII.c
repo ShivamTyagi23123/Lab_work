@@ -23,7 +23,7 @@ int main() {
     return 0;
 }
 
-//Q16-Write a program to input three numbers and find the largest among them using if–else.
+//Q16-Write a program to input three numbers and find the largest among them using if–else
 
 #include <cstdio>
 
