@@ -1,4 +1,4 @@
-//Q7-Write a program to swap two numbers without using a third variable
+//Q7-Write a program to swap two numbers without using a third variable.
 
 #include <cstdio>
 
@@ -19,7 +19,7 @@ int main() {
 }
 
 
-//Q8-Write a program to find and display the sum of the first n natural numbers
+//Q8-Write a program to find and display the sum of the first n natural numbers.
 
 #include <cstdio>
 
