@@ -27,7 +27,6 @@ int main() {
         printf("Root = %.2f\n", root);
     }
     else {
-        // Complex roots
         double realPart = -b / (2*a);
         double imaginaryPart = sqrt(-discriminant) / (2*a);
         printf("Roots are complex and imaginary:\n");
@@ -39,7 +38,7 @@ int main() {
 }
 
 
-//Q18-Write a program to assign grades based on a percentage input.
+//Q18-Write a program to assign grades based on a percentage input
 
 #include <cstdio>
 
