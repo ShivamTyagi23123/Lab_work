@@ -32,7 +32,7 @@ int main() {
 }
 
 
-//Q34 (Loops without Arrays/Strings)Write a program to check if a number is prime.
+//Q34 Write a program to check if a number is prime.
 
 #include <stdio.h>
 #include <math.h>
