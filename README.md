@@ -1,6 +1,6 @@
 # Lab Work: ✨ Daily Challenge – 100 Days of Code (UPES) ✨
 
-This repository contains simple C programs solving a variety of basic programming problems, designed as daily coding challenges.
+This repository contains simple C programs solving a variety of basic programming problems, designed as daily coding challenges to help beginners strengthen their programming skills through consistent practice.
 
 ---
 
@@ -36,10 +36,53 @@ This repository contains simple C programs solving a variety of basic programmin
 
 ---
 
-### Prerequisites
+## Additional Beginner Exercises and Topics Covered
+
+- Hello World Program  
+- Print Personal Details (Name, Date of Birth, Mobile Number)  
+- Display C Version  
+- Print Patterns (Block Letters like 'F' and 'C')  
+- Use of Escape Sequences and Comments  
+- Variables and Data Types  
+- Arithmetic Operations and Expressions  
+- Typecasting and Operator Precedence  
+- Conditional Statements: if, if-else, nested if  
+- Switch-Case Statement  
+- For Loop, While Loop, Do-While Loop  
+- Nested Loops and Pattern Printing  
+- Sum of Natural Numbers Using Loops  
+- Factorial and Recursion  
+- Reverse a Number  
+- Check Prime Number  
+- Array Declaration and Traversal  
+- Basic String Handling  
+- Functions and Recursion (Factorial / Fibonacci)  
+- Pointer Fundamentals  
+- Structures and Unions Introduction  
+- Basic File Input/Output Operations
+
+---
+
+## Prerequisites
 
 - A C compiler such as `gcc`  
-- Basic knowledge of command-line interface
+- Basic knowledge of programming concepts and command-line interface
+
+---
+
+## How to Compile and Run
+
+1. Clone the repository: 
+ 
+2. Navigate to the directory:
+
+3. Compile any C program using `gcc`:
+
+gcc program_name.c -o program_name
+
+4. Run the executable:
+
+./program_name
 
 ---
 
@@ -47,3 +90,5 @@ This repository contains simple C programs solving a variety of basic programmin
 
 **Shivam Tyagi**  
 _4 September 2025_
+
+---
