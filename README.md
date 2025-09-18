@@ -21,22 +21,16 @@ This repository contains simple C programs solving a variety of basic programmin
 - Find Largest of Three Numbers  
 - Roots of Quadratic Equation  
 - Assign Grades Based on Percentage  
-
 - Cinema Ticket Booking System  
-  A program to book multiple types of cinema seats with dynamic pricing and discounts.
-
+  A program to book multiple types of cinema seats with dynamic pricing and discounts.  
 - Triangle Classification  
-  Classifies triangle type based on side lengths (Equilateral, Isosceles, Scalene).
-
+  Classifies triangle type based on side lengths (Equilateral, Isosceles, Scalene).  
 - Basic Calculator  
-  Performs arithmetic operations (+, -, *, /, %) using switch-case.
-
+  Performs arithmetic operations (+, -, *, /, %) using switch-case.  
 - Number and Loop Exercises  
-  Programs including printing numbers 1 to n, factorial calculation, reversing a number, and prime number utilities.
-
+  Programs including printing numbers 1 to n, factorial calculation, reversing a number, and prime number utilities.  
 - Library Fine Calculator  
-  Calculates library fine based on days late with tiered rates and membership cancellation.
-
+  Calculates library fine based on days late with tiered rates and membership cancellation.  
 - Electricity Bill Calculator  
   Calculates bill for units consumed with slab rates.
 
@@ -46,7 +40,6 @@ This repository contains simple C programs solving a variety of basic programmin
 
 - A C compiler such as `gcc`  
 - Basic knowledge of command-line interface
-
 
 ---
 
