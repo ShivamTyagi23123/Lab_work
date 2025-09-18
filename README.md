@@ -78,7 +78,7 @@ This repository contains simple C programs solving a variety of basic programmin
 
 3. Compile any C program using `gcc`:
 
-gcc program_name.c -o program_name
+  gcc program_name.c -o program_name
 
 4. Run the executable:
 
