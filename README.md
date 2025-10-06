@@ -16,13 +16,15 @@ This repository provides learners with clear, beginner-friendly C programs based
 - [Programs Included](#programs-included)  
 - [Prerequisites](#prerequisites)  
 - [How to Compile and Run](#how-to-compile-and-run)  
-- [Contributions](#contributions)  
-- [Contact](#contact)  
+- [Sample Output Preview](#sample-output-preview)  
 - [Author](#author)  
 
 ---
 
 ## Programs Included  
+
+<details>
+<summary>Click to expand full program list</summary>
 
 ### 🧮 Geometry and Conversion
 - Calculate Area and Perimeter of Rectangle  
@@ -89,6 +91,8 @@ This repository provides learners with clear, beginner-friendly C programs based
 - Word Operations: Longest Word, Word Reversals  
 - String Rotation Checks  
 
+</details>
+
 ---
 
 ## Prerequisites
@@ -103,6 +107,25 @@ This repository provides learners with clear, beginner-friendly C programs based
 gcc program_name.c -o program_name
 ./program_name
 
+
+---
+
+## Sample Output Preview
+
+| Program                        | Sample Output                                                   |
+|-------------------------------|----------------------------------------------------------------|
+| Area and Perimeter of Rectangle| Length: 5, Breadth: 3  \nArea: 15  Perimeter: 16              |
+| Check Even or Odd              | Input: 4  \nOutput: Even                                       |
+| Print Diamond Star Pattern     | * \n*** \n***** \n*** \n*                                       |
+| String Palindrome Check        | Input: madam  \nOutput: Palindrome                              |
+| Rotate Array                  | Input: [1,2,3,4,5], rotate by 2  \nOutput: [4,5,1,2,3]           |
+
+---
+
+### Example: Area and Perimeter of Rectangle Program Output
+
+![Terminal screenshot: Area and Perimeter of Rectangle program output](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/24520a03-606e-453f-842c-fbd6db4b3ff0.png)
+
 ---
 
 ## Author
@@ -111,6 +134,3 @@ gcc program_name.c -o program_name
 _4 September 2025_
 
 ---
-
-## How to Compile and Run
-
