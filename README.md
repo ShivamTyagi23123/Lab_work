@@ -122,12 +122,6 @@ gcc program_name.c -o program_name
 
 ---
 
-### Example: Area and Perimeter of Rectangle Program Output
-
-![Terminal screenshot: Area and Perimeter of Rectangle program output](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/24520a03-606e-453f-842c-fbd6db4b3ff0.png)
-
----
-
 ## Author
 
 **Shivam Tyagi**  
