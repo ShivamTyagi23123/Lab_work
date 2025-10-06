@@ -105,6 +105,7 @@ This repository provides learners with clear, beginner-friendly C programs based
 ## How to Compile and Run
 
 gcc program_name.c -o program_name
+
 ./program_name
 
 
