@@ -1,30 +1,41 @@
-# Lab Work: ✨ Daily Challenge – 100 Days of Code (UPES) ✨
+# 🌙 100 Days of Code – C Programming Challenge (UPES)
 
-![C Language](https://img.shields.io/badge/language-C-blue)  
-![License](https://img.shields.io/badge/license-MIT-green)
-
----
-
-## About This Repository
-
-This repository provides learners with clear, beginner-friendly C programs based on common coding challenges. It is designed to help beginners strengthen their programming skills through consistent daily practice and hands-on examples.
+![C Language](https://img.shields.io/badge/language-C-blue?style=for-the-badge&logo=c)  
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)  
+![Status](https://img.shields.io/badge/progress-Active-yellow?style=for-the-badge)
 
 ---
 
-## Table of Contents
+<div align="center">
+  
+🖥️ **Begin your journey to mastering C programming — one program a day!**  
+Practice daily, learn consistently, and grow your coding confidence.
+
+</div>
+
+---
+
+## 🧭 About This Repository
+
+This repository is a curated collection of **beginner-friendly C programs** covering essential programming challenges.  
+It is designed to help learners **develop structured logic, strengthen problem-solving**, and achieve consistency through daily hands-on coding practice.
+
+---
+
+## 🗂️ Table of Contents
 
 - [Programs Included](#programs-included)  
 - [Prerequisites](#prerequisites)  
 - [How to Compile and Run](#how-to-compile-and-run)  
 - [Sample Output Preview](#sample-output-preview)  
-- [Author](#author)  
+- [Author](#author)
 
 ---
 
-## Programs Included  
+## 💡 Programs Included  
 
 <details>
-<summary>Click to expand full program list</summary>
+<summary><b>Click to view the complete program list</b></summary>
 
 ### 🧮 Geometry and Conversion
 - Calculate Area and Perimeter of Rectangle  
@@ -39,35 +50,35 @@ This repository provides learners with clear, beginner-friendly C programs based
 
 ### 🔀 Conditional Checks
 - Check if Number is Even or Odd  
-- Check if Number is Positive, Negative, or Zero  
+- Identify Positive, Negative, or Zero  
 - Determine Leap Year  
 - Identify Vowel or Consonant  
 - Character Type Check (Uppercase, Lowercase, Digit, Special)  
 - Find Largest of Three Numbers  
 - Quadratic Roots and Categorization  
 - Assign Grades Based on Percentage  
-- Triangle Classification  
+- Classify Triangle Type  
 - Profit or Loss Percentage Calculation  
-- Library Fine Calculation with Tiered Rates  
-- Electricity Bill Calculation with Slab Rates  
-- Basic Calculator (+, -, *, /, %) via Switch-Case  
+- Library Fine Calculation (Tiered Rates)  
+- Electricity Bill Calculation (Slab Rates)  
+- Basic Calculator using Switch-Case  
 
 ### 🔁 Loops and Number Series
-- Print Numbers 1 to n  
+- Print Numbers from 1 to n  
 - Sum of First n Odd Numbers  
 - Product of Even Numbers  
-- Factorial Calculation  
+- Factorial of a Number  
 - Reverse a Number  
-- Binary Conversion  
-- Palindrome and Armstrong Number Checks  
+- Convert Decimal to Binary  
+- Palindrome and Armstrong Number Check  
 - Prime Number Utilities  
 - Factors of a Number  
-- HCF and LCM Calculations  
-- Digit Sum/Product  
-- 1's Complement of Binary Number  
-- Swap Digits (first and last)  
+- HCF and LCM of Two Numbers  
+- Digit Sum and Product  
+- 1’s Complement of a Binary Number  
+- Swap First and Last Digits  
 - Perfect and Strong Number Checks  
-- Sum of Numeric Series  
+- Sum of a Given Series  
 
 ### ✨ Patterns and Nested Loops
 - Star Patterns (Fixed and Incremental)  
@@ -76,56 +87,66 @@ This repository provides learners with clear, beginner-friendly C programs based
 - Prime Numbers Listing  
 
 ### 📚 Arrays
-- 1D and 2D Array Operations: Read, Print, Sum, Max, Min  
+- 1D and 2D Array Operations (Read, Print, Sum, Max, Min)  
 - Counting Specific Elements  
-- Searching (Linear and Binary)  
-- Reversing and Merging Arrays  
-- Element Insertions and Deletions  
-- Matrix Arithmetic and Properties  
+- Linear and Binary Search  
+- Reverse and Merge Arrays  
+- Insert or Delete Elements  
+- Matrix Operations and Properties  
 
 ### 🔤 Strings
-- Character Count, Vowel and Consonant Count  
-- Case Conversion and Toggle  
-- Palindrome and Anagram Checks  
-- Frequency Counts and Modifications  
-- Word Operations: Longest Word, Word Reversals  
+- Count Characters, Vowels, and Consonants  
+- Convert Case and Toggle Case  
+- Check for Palindrome and Anagram  
+- Character Frequency and Modifications  
+- Word Operations (Longest Word, Word Reversal)  
 - String Rotation Checks  
 
 </details>
 
 ---
 
-## Prerequisites
+## ⚙️ Prerequisites
 
-- A C compiler such as `gcc`  
-- Basic understanding of programming and command-line interface  
+- Any standard **C compiler** (e.g., `gcc`)  
+- Basic understanding of programming and command-line usage  
 
 ---
 
-## How to Compile and Run
+## 🧠 How to Compile and Run
 
 gcc program_name.c -o program_name
-
 ./program_name
 
+---
+
+> 💡 **Tip:** Use meaningful file names and consistent formatting for organized practice.
 
 ---
 
-## Sample Output Preview
+## 🧾 Sample Output Preview
 
-| Program                        | Sample Output                                                   |
-|-------------------------------|----------------------------------------------------------------|
-| Area and Perimeter of Rectangle| Length: 5, Breadth: 3  \nArea: 15  Perimeter: 16              |
-| Check Even or Odd              | Input: 4  \nOutput: Even                                       |
-| Print Diamond Star Pattern     | * \n*** \n***** \n*** \n*                                       |
-| String Palindrome Check        | Input: madam  \nOutput: Palindrome                              |
-| Rotate Array                  | Input: [1,2,3,4,5], rotate by 2  \nOutput: [4,5,1,2,3]           |
+| Program                         | Sample Output                                                   |
+|----------------------------------|----------------------------------------------------------------|
+| Area and Perimeter of Rectangle  | Length: 5, Breadth: 3 → Area: 15, Perimeter: 16               |
+| Check Even or Odd                | Input: 4 → Output: Even                                        |
+| Print Diamond Star Pattern       | * <br>*** <br>***** <br>*** <br>*                              |
+| String Palindrome Check          | Input: madam → Output: Palindrome                              |
+| Rotate Array                     | Input: [1,2,3,4,5], Rotate by 2 → Output: [4,5,1,2,3]          |
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Shivam Tyagi**  
-_ 7 October 2025_
+_7 October 2025_  
+**University of Petroleum and Energy Studies (UPES)**  
+
+> 🌟 Connect. Code. Conquer.
 
 ---
+<div align="center">
+
+💫 *Keep coding every day — growth comes line by line.* 💫
+
+</div>
