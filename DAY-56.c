@@ -1,4 +1,4 @@
-//Q106: Next greater element for each element (brute force)
+//Q106: Next greater element for each element
 
 #include <stdio.h>
 #include <stdlib.h>
