@@ -100,7 +100,38 @@ It is designed to help learners **develop structured logic, strengthen problem-s
 - Check for Palindrome and Anagram  
 - Character Frequency and Modifications  
 - Word Operations (Longest Word, Word Reversal)  
-- String Rotation Checks  
+- String Rotation Checks
+
+### 🔤 Strings
+- Check if one string is a rotation of another  
+- Reverse each word in a sentence without changing word order  
+- Print the initials of a name  
+- Print initials of a name with surname in full  
+- Change the date format from dd/04/yyyy to dd-Apr-yyyy  
+- QPrint all sub-strings of a string  
+
+### 🧠 Logic Enhancers
+- Find first and last occurrence of target in a sorted array  
+- Find index of smallest element greater than or equal to x in sorted array  
+- Find pivot index where sum of left and right elements are equal  
+- Find pivot integer with equal sums from 1 to x and x to n  
+- Find majority element appearing more than half the times  
+- Next greater element for each element (brute force)  
+- Previous greater element for each element (brute force)  
+- Product of all array elements except self (without division)  
+- Maximum sum of all subarrays of size k  
+- Maximum element in each subarray of size k  
+- First negative integer in each subarray of size k  
+- Maximum sum of contiguous subarray (Kadane’s algorithm)  
+- Find kth smallest element in an array  
+- Length of longest substring without repeating characters  
+- Determine if two strings are anagrams  
+- Find two indices whose elements sum to a target  
+- Merge two sorted arrays  
+- Find missing number in 0 to n array  
+- Find repeated element in an array (single iteration)  
+- Change a string to sentence case  
+
 
 </details>
 
