@@ -101,8 +101,6 @@ It is designed to help learners **develop structured logic, strengthen problem-s
 - Character Frequency and Modifications  
 - Word Operations (Longest Word, Word Reversal)  
 - String Rotation Checks
-
-### 🔤 Strings
 - Check if one string is a rotation of another  
 - Reverse each word in a sentence without changing word order  
 - Print the initials of a name  
