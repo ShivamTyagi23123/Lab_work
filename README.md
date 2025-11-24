@@ -169,7 +169,9 @@ gcc DAY-77.c -o day77
 ---
 
 ## 👨‍💻 Author
-![Static Badge](https://img.shields.io/badge/Shivam%20tyagi)
+
+![Author](https://img.shields.io/badge/author-Shivam%20Tyagi-blueviolet?style=for-the-badge)
+
 **Shivam Tyagi**  
 _25 November 2025_  
 **University of Petroleum and Energy Studies (UPES)**  
