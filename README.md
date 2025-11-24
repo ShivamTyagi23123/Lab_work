@@ -3,6 +3,7 @@
 ![C Language](https://img.shields.io/badge/language-C-blue?style=for-the-badge&logo=c)  
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)  
 ![Status](https://img.shields.io/badge/progress-Active-yellow?style=for-the-badge)
+![Covered](https://img.shields.io/badge/coverage-97%25-orange)
 
 ---
 
@@ -168,8 +169,6 @@ gcc DAY-77.c -o day77
 ---
 
 ## 👨‍💻 Author
-
-![Demo](https://raw.githubusercontent.com/ShivamTyagi23123/Lab_work/main/demo.png)
 
 **Shivam Tyagi**  
 _25 November 2025_  
