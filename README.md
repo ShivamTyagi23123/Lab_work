@@ -161,7 +161,6 @@ gcc DAY-77.c -o day77
 |----------------------------------|----------------------------------------------------------------|
 | Area and Perimeter of Rectangle  | Length: 5, Breadth: 3 → Area: 15, Perimeter: 16               |
 | Check Even or Odd                | Input: 4 → Output: Even                                        |
-| Print Diamond Star Pattern       |   *   <br> *** <br>***** <br> *** <br>  *                      |
 | String Palindrome Check          | Input: madam → Output: Palindrome                              |
 | Rotate Array                     | Input: [1,2,3,4,5], Rotate by 2 → Output: [4,5,1,2,3]          |
 
