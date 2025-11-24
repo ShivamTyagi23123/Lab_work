@@ -100,13 +100,13 @@ It is designed to help learners **develop structured logic, strengthen problem-s
 - Check for Palindrome and Anagram  
 - Character Frequency and Modifications  
 - Word Operations (Longest Word, Word Reversal)  
-- String Rotation Checks
+- String Rotation Checks  
 - Check if one string is a rotation of another  
 - Reverse each word in a sentence without changing word order  
 - Print the initials of a name  
 - Print initials of a name with surname in full  
 - Change the date format from dd/04/yyyy to dd-Apr-yyyy  
-- QPrint all sub-strings of a string  
+- Print all sub-strings of a string  
 
 ### 🧠 Logic Enhancers
 - Find first and last occurrence of target in a sorted array  
@@ -130,7 +130,6 @@ It is designed to help learners **develop structured logic, strengthen problem-s
 - Find repeated element in an array (single iteration)  
 - Change a string to sentence case  
 
-
 </details>
 
 ---
@@ -144,8 +143,11 @@ It is designed to help learners **develop structured logic, strengthen problem-s
 
 ## 🧠 How to Compile and Run
 
-gcc program_name.c -o program_name
-./program_name
+gcc DAY-77.c -o day77
+./day77
+
+- Change `DAY-77.c` to the file you want to run.
+- Output executable names are arbitrary; use as preferred.
 
 ---
 
@@ -166,9 +168,9 @@ gcc program_name.c -o program_name
 ---
 
 ## 👨‍💻 Author
-
+![Demo](https://raw.githubusercontent.com/Shivam_tyagi23123
 **Shivam Tyagi**  
-_7 October 2025_  
+_25 November 2025_  
 **University of Petroleum and Energy Studies (UPES)**  
 
 > 🌟 Connect. Code. Conquer.
@@ -179,3 +181,4 @@ _7 October 2025_
 💫 *Keep coding every day — growth comes line by line.* 💫
 
 </div>
+
