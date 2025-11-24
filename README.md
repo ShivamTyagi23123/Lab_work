@@ -168,7 +168,9 @@ gcc DAY-77.c -o day77
 ---
 
 ## 👨‍💻 Author
-![Demo](https://raw.githubusercontent.com/Shivam_tyagi23123
+
+![Demo](https://raw.githubusercontent.com/ShivamTyagi23123/Lab_work/main/demo.png)
+
 **Shivam Tyagi**  
 _25 November 2025_  
 **University of Petroleum and Energy Studies (UPES)**  
